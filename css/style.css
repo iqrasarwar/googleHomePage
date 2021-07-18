@@ -1,11 +1,16 @@
                   
 
              								     /*header styling*/
-.dim
+#dim
 {
 	opacity: 40%;
 	margin:0.1em;
-	padding:0.2em;
+	width:2%;
+}
+#dim1
+{
+	opacity: 40%;
+	margin:0.1em;
 	width:2%;
 }
 #hSearch
